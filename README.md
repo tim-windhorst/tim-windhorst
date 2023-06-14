@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tim-windhorst
 - 👀 I’m interested in building, breaking, and testing.
-- 🌱 I’m currently learning software testing, testing automation.
+- 🌱 I’m currently learning software testing, testing automation, system administration, and python.
 
 <!---
 tim-windhorst/tim-windhorst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
